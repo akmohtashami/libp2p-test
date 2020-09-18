@@ -1,3 +1,5 @@
+Source: https://github.com/libp2p/go-libp2p-examples
+
 # p2p chat app with libp2p [with peer discovery]
 
 This program demonstrates a simple p2p chat application. You will learn how to discover a peer in the network (using kad-dht), connect to it and open a chat stream.
